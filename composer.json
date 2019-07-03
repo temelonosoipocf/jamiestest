@@ -1,0 +1,24 @@
+{
+    "name": "marvel-ultimate-alliance-3-free-cd-keys/available-for-ps4-xbox-switch",
+    "description": "Marvel Ultimate Alliance 3 Free CD Keys Code Generator Marvel Ultimate Alliance 3 Redeem Code Generator OUR SPONSORS DECIDED TO RELEASE 700 REDEEM CODES WHICH YOU CAN USE TO ACCESS AND PLAY Marvel Ultimate Alliance 3 FULL GAME. GET YOUR Marvel Ultimate Alliance 3 Free CD CODE NOW AND REDEEM IT ON THE GAMESTORE. BE ONE OF 700 GAMERS TO HAVE THIS CHANCE.!!!Marvel Ultimate Alliance 3 Free CD Keys Code Generator available only for a limited time only !!!",
+    "homepage": "https://github.com/fcjc",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Get Marvel Ultimate Alliance 3 Free CD Keys Now",
+            "homepage": "http://mobapps.bid/marvel-ultimate-alliance-3-keys/",
+            "role": "Developer"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "movies123\\": "src/"
+        }
+    },
+    "require": {
+        "symfony/dom-crawler": "^3.3",
+        "symfony/css-selector": "^3.3"
+    },
+    "minimum-stability": "dev"
+}
